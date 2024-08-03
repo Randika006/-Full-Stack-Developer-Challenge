@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('frontend.master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\xampp\htdocs\Business-Card\Business_Card\resources\views/frontend/home.blade.php ENDPATH**/ ?>
